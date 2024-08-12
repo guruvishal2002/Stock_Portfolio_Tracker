@@ -1,9 +1,6 @@
 # Stock_Portfolio_Tracker
 Creating a detailed README file for your Stock Portfolio Tracker will help others understand how to use your program, what it does, and how to set it up. Below is a template you can use and customize according to your project's specifics.
 
----
-
-# Stock Portfolio Tracker
 
 ## Overview
 
