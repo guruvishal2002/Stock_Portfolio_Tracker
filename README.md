@@ -13,11 +13,11 @@ Users can add stocks, remove stocks, and view the performance of their portfolio
 ## Features
 
 - **Add Stock**: Add a stock to your portfolio by entering the ticker symbol, the number of shares, and the price paid per share.
-- 
--**Remove Stock**: Remove a stock from your portfolio by specifying the ticker symbol.
+
+- **Remove Stock**: Remove a stock from your portfolio by specifying the ticker symbol.
   
 - **View Portfolio**: View a summary of your portfolio, including the ticker symbols, number of shares, price paid, and current market value.
-- 
+  
 - **Real-time Stock Data**: Fetches real-time stock prices using the Alpha Vantage API.
 
 ## Prerequisites
@@ -64,7 +64,7 @@ pip install pandas requests
    - Once you have the API key, add it to your Python script as follows:
      
      ```python
-     self.api_key = "your_alpha_vantage_api_key"
+     self.api_key = "S7C8MGSVRMW0DKV7"
      ```
 
 7. **Run the Application**:
