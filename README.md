@@ -137,6 +137,7 @@ Stock Portfolio Tracker
 
 4. Exit
 
+
 Enter your choice: 1
 
 Enter stock ticker: AAPL
@@ -145,7 +146,9 @@ Enter number of shares: 10
 
 Enter price paid per share: 150
 
+
 Stock added successfully!
+
 
 Stock Portfolio Tracker
 
