@@ -185,12 +185,3 @@ Market Value: $1452.30
 - **API Key Limitations**: The free version of the Alpha Vantage API has rate limits that may affect the performance if multiple requests are made within a short period.
 - **No Database Integration**: The current version stores portfolio data in memory, which will be lost when the application is closed. Future versions may include database integration for persistent storage.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a pull request.
